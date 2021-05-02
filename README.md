@@ -1,4 +1,4 @@
-# Cifar10-using-Resnet9-arch
+# Cifar10-using-Resnet9
 
 Link to download the dataset click the link below:- 
 https://lnkd.in/eSPgF-v
